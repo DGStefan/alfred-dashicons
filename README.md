@@ -19,7 +19,7 @@ Download the latest version of the workflow from the [releases page][releases], 
 	- `⌥↩` — Copy/paste HTML code.
 	- `^↩` — Copy/paste CSS code.
 
-<img width="570" height="505" src="" alt="animated workflow demo" title="animated workflow demo">
+<img width="570" src="https://github.com/DGStefan/alfred-dashicons/raw/main/images/example-1.png" alt="animated workflow demo" title="animated workflow demo">
 
 ## License
 
