@@ -1,0 +1,1692 @@
+[
+    {
+        "code" : "f333",
+        "hash" : "menu",
+        "id" : "menu"
+    },
+    {
+        "code" : "f228",
+        "hash" : "menu (alt)",
+        "id" : "menu-alt"
+    },
+    {
+        "code" : "f329",
+        "hash" : "menu (alt2)",
+        "id" : "menu-alt2"
+    },
+    {
+        "code" : "f349",
+        "hash" : "menu (alt3)",
+        "id" : "menu-alt3"
+    },
+    {
+        "code" : "f319",
+        "hash" : "site",
+        "id" : "admin-site"
+    },
+    {
+        "code" : "f11d",
+        "hash" : "site (alt)",
+        "id" : "admin-site-alt"
+    },
+    {
+        "code" : "f11e",
+        "hash" : "site (alt2)",
+        "id" : "admin-site-alt2"
+    },
+    {
+        "code" : "f11f",
+        "hash" : "site (alt3)",
+        "id" : "admin-site-alt3"
+    },
+    {
+        "code" : "f226",
+        "hash" : "dashboard",
+        "id" : "dashboard"
+    },
+    {
+        "code" : "f109",
+        "hash" : "post",
+        "id" : "admin-post"
+    },
+    {
+        "code" : "f104",
+        "hash" : "media",
+        "id" : "admin-media"
+    },
+    {
+        "code" : "f103",
+        "hash" : "links",
+        "id" : "admin-links"
+    },
+    {
+        "code" : "f105",
+        "hash" : "page",
+        "id" : "admin-page"
+    },
+    {
+        "code" : "f101",
+        "hash" : "comments",
+        "id" : "admin-comments"
+    },
+    {
+        "code" : "f100",
+        "hash" : "appearance",
+        "id" : "admin-appearance"
+    },
+    {
+        "code" : "f106",
+        "hash" : "plugins",
+        "id" : "admin-plugins"
+    },
+    {
+        "code" : "f485",
+        "hash" : "plugins checked",
+        "id" : "plugins-checked"
+    },
+    {
+        "code" : "f110",
+        "hash" : "users",
+        "id" : "admin-users"
+    },
+    {
+        "code" : "f107",
+        "hash" : "tools",
+        "id" : "admin-tools"
+    },
+    {
+        "code" : "f108",
+        "hash" : "settings",
+        "id" : "admin-settings"
+    },
+    {
+        "code" : "f112",
+        "hash" : "network",
+        "id" : "admin-network"
+    },
+    {
+        "code" : "f102",
+        "hash" : "home",
+        "id" : "admin-home"
+    },
+    {
+        "code" : "f111",
+        "hash" : "generic",
+        "id" : "admin-generic"
+    },
+    {
+        "code" : "f148",
+        "hash" : "collapse",
+        "id" : "admin-collapse"
+    },
+    {
+        "code" : "f536",
+        "hash" : "filter",
+        "id" : "filter"
+    },
+    {
+        "code" : "f540",
+        "hash" : "customizer",
+        "id" : "admin-customizer"
+    },
+    {
+        "code" : "f541",
+        "hash" : "multisite",
+        "id" : "admin-multisite"
+    },
+    {
+        "code" : "f119",
+        "hash" : "write blog",
+        "id" : "welcome-write-blog"
+    },
+    {
+        "code" : "f133",
+        "hash" : "add page",
+        "id" : "welcome-add-page"
+    },
+    {
+        "code" : "f115",
+        "hash" : "view site",
+        "id" : "welcome-view-site"
+    },
+    {
+        "code" : "f116",
+        "hash" : "widgets menus",
+        "id" : "welcome-widgets-menus"
+    },
+    {
+        "code" : "f117",
+        "hash" : "comments",
+        "id" : "welcome-comments"
+    },
+    {
+        "code" : "f118",
+        "hash" : "learn more",
+        "id" : "welcome-learn-more"
+    },
+    {
+        "code" : "f123",
+        "hash" : "aside",
+        "id" : "format-aside"
+    },
+    {
+        "code" : "f128",
+        "hash" : "image",
+        "id" : "format-image"
+    },
+    {
+        "code" : "f161",
+        "hash" : "gallery",
+        "id" : "format-gallery"
+    },
+    {
+        "code" : "f126",
+        "hash" : "video",
+        "id" : "format-video"
+    },
+    {
+        "code" : "f130",
+        "hash" : "status",
+        "id" : "format-status"
+    },
+    {
+        "code" : "f122",
+        "hash" : "quote",
+        "id" : "format-quote"
+    },
+    {
+        "code" : "f125",
+        "hash" : "chat",
+        "id" : "format-chat"
+    },
+    {
+        "code" : "f127",
+        "hash" : "audio",
+        "id" : "format-audio"
+    },
+    {
+        "code" : "f306",
+        "hash" : "camera",
+        "id" : "camera"
+    },
+    {
+        "code" : "f129",
+        "hash" : "camera (alt)",
+        "id" : "camera-alt"
+    },
+    {
+        "code" : "f232",
+        "hash" : "images (alt)",
+        "id" : "images-alt"
+    },
+    {
+        "code" : "f233",
+        "hash" : "images (alt2)",
+        "id" : "images-alt2"
+    },
+    {
+        "code" : "f234",
+        "hash" : "video (alt)",
+        "id" : "video-alt"
+    },
+    {
+        "code" : "f235",
+        "hash" : "video (alt2)",
+        "id" : "video-alt2"
+    },
+    {
+        "code" : "f236",
+        "hash" : "video (alt3)",
+        "id" : "video-alt3"
+    },
+    {
+        "code" : "f501",
+        "hash" : "archive",
+        "id" : "media-archive"
+    },
+    {
+        "code" : "f500",
+        "hash" : "audio",
+        "id" : "media-audio"
+    },
+    {
+        "code" : "f499",
+        "hash" : "code",
+        "id" : "media-code"
+    },
+    {
+        "code" : "f498",
+        "hash" : "default",
+        "id" : "media-default"
+    },
+    {
+        "code" : "f497",
+        "hash" : "document",
+        "id" : "media-document"
+    },
+    {
+        "code" : "f496",
+        "hash" : "interactive",
+        "id" : "media-interactive"
+    },
+    {
+        "code" : "f495",
+        "hash" : "spreadsheet",
+        "id" : "media-spreadsheet"
+    },
+    {
+        "code" : "f491",
+        "hash" : "text",
+        "id" : "media-text"
+    },
+    {
+        "code" : "f490",
+        "hash" : "video",
+        "id" : "media-video"
+    },
+    {
+        "code" : "f492",
+        "hash" : "playlist audio",
+        "id" : "playlist-audio"
+    },
+    {
+        "code" : "f493",
+        "hash" : "playlist video",
+        "id" : "playlist-video"
+    },
+    {
+        "code" : "f522",
+        "hash" : "play",
+        "id" : "controls-play"
+    },
+    {
+        "code" : "f523",
+        "hash" : "pause",
+        "id" : "controls-pause"
+    },
+    {
+        "code" : "f519",
+        "hash" : "forward",
+        "id" : "controls-forward"
+    },
+    {
+        "code" : "f517",
+        "hash" : "skip forward",
+        "id" : "controls-skipforward"
+    },
+    {
+        "code" : "f518",
+        "hash" : "back",
+        "id" : "controls-back"
+    },
+    {
+        "code" : "f516",
+        "hash" : "skip back",
+        "id" : "controls-skipback"
+    },
+    {
+        "code" : "f515",
+        "hash" : "repeat",
+        "id" : "controls-repeat"
+    },
+    {
+        "code" : "f521",
+        "hash" : "volume on",
+        "id" : "controls-volumeon"
+    },
+    {
+        "code" : "f520",
+        "hash" : "volume off",
+        "id" : "controls-volumeoff"
+    },
+    {
+        "code" : "f165",
+        "hash" : "crop",
+        "id" : "image-crop"
+    },
+    {
+        "code" : "f531",
+        "hash" : "rotate",
+        "id" : "image-rotate"
+    },
+    {
+        "code" : "f166",
+        "hash" : "rotate left",
+        "id" : "image-rotate-left"
+    },
+    {
+        "code" : "f167",
+        "hash" : "rotate right",
+        "id" : "image-rotate-right"
+    },
+    {
+        "code" : "f168",
+        "hash" : "flip vertical",
+        "id" : "image-flip-vertical"
+    },
+    {
+        "code" : "f169",
+        "hash" : "flip horizontal",
+        "id" : "image-flip-horizontal"
+    },
+    {
+        "code" : "f533",
+        "hash" : "filter",
+        "id" : "image-filter"
+    },
+    {
+        "code" : "f171",
+        "hash" : "undo",
+        "id" : "undo"
+    },
+    {
+        "code" : "f172",
+        "hash" : "redo",
+        "id" : "redo"
+    },
+    {
+        "code" : "f170",
+        "hash" : "database add",
+        "id" : "database-add"
+    },
+    {
+        "code" : "f17e",
+        "hash" : "database",
+        "id" : "database"
+    },
+    {
+        "code" : "f17a",
+        "hash" : "database export",
+        "id" : "database-export"
+    },
+    {
+        "code" : "f17b",
+        "hash" : "database import",
+        "id" : "database-import"
+    },
+    {
+        "code" : "f17c",
+        "hash" : "database remove",
+        "id" : "database-remove"
+    },
+    {
+        "code" : "f17d",
+        "hash" : "database view",
+        "id" : "database-view"
+    },
+    {
+        "code" : "f114",
+        "hash" : "align full width",
+        "id" : "align-full-width"
+    },
+    {
+        "code" : "f10a",
+        "hash" : "align pull left",
+        "id" : "align-pull-left"
+    },
+    {
+        "code" : "f10b",
+        "hash" : "align pull right",
+        "id" : "align-pull-right"
+    },
+    {
+        "code" : "f11b",
+        "hash" : "align wide",
+        "id" : "align-wide"
+    },
+    {
+        "code" : "f12b",
+        "hash" : "block default",
+        "id" : "block-default"
+    },
+    {
+        "code" : "f11a",
+        "hash" : "button",
+        "id" : "button"
+    },
+    {
+        "code" : "f137",
+        "hash" : "cloud saved",
+        "id" : "cloud-saved"
+    },
+    {
+        "code" : "f13b",
+        "hash" : "cloud upload",
+        "id" : "cloud-upload"
+    },
+    {
+        "code" : "f13c",
+        "hash" : "columns",
+        "id" : "columns"
+    },
+    {
+        "code" : "f13d",
+        "hash" : "cover image",
+        "id" : "cover-image"
+    },
+    {
+        "code" : "f11c",
+        "hash" : "ellipsis",
+        "id" : "ellipsis"
+    },
+    {
+        "code" : "f13e",
+        "hash" : "embed audio",
+        "id" : "embed-audio"
+    },
+    {
+        "code" : "f13f",
+        "hash" : "embed generic",
+        "id" : "embed-generic"
+    },
+    {
+        "code" : "f144",
+        "hash" : "embed photo",
+        "id" : "embed-photo"
+    },
+    {
+        "code" : "f146",
+        "hash" : "embed post",
+        "id" : "embed-post"
+    },
+    {
+        "code" : "f149",
+        "hash" : "embed video",
+        "id" : "embed-video"
+    },
+    {
+        "code" : "f14a",
+        "hash" : "exit",
+        "id" : "exit"
+    },
+    {
+        "code" : "f10e",
+        "hash" : "heading",
+        "id" : "heading"
+    },
+    {
+        "code" : "f14b",
+        "hash" : "HTML",
+        "id" : "html"
+    },
+    {
+        "code" : "f14c",
+        "hash" : "info outline",
+        "id" : "info-outline"
+    },
+    {
+        "code" : "f10f",
+        "hash" : "insert",
+        "id" : "insert"
+    },
+    {
+        "code" : "f14d",
+        "hash" : "insert after",
+        "id" : "insert-after"
+    },
+    {
+        "code" : "f14e",
+        "hash" : "insert before",
+        "id" : "insert-before"
+    },
+    {
+        "code" : "f14f",
+        "hash" : "remove",
+        "id" : "remove"
+    },
+    {
+        "code" : "f15e",
+        "hash" : "saved",
+        "id" : "saved"
+    },
+    {
+        "code" : "f150",
+        "hash" : "shortcode",
+        "id" : "shortcode"
+    },
+    {
+        "code" : "f151",
+        "hash" : "table col after",
+        "id" : "table-col-after"
+    },
+    {
+        "code" : "f152",
+        "hash" : "table col before",
+        "id" : "table-col-before"
+    },
+    {
+        "code" : "f15a",
+        "hash" : "table col delete",
+        "id" : "table-col-delete"
+    },
+    {
+        "code" : "f15b",
+        "hash" : "table row after",
+        "id" : "table-row-after"
+    },
+    {
+        "code" : "f15c",
+        "hash" : "table row before",
+        "id" : "table-row-before"
+    },
+    {
+        "code" : "f15d",
+        "hash" : "table row delete",
+        "id" : "table-row-delete"
+    },
+    {
+        "code" : "f200",
+        "hash" : "bold",
+        "id" : "editor-bold"
+    },
+    {
+        "code" : "f201",
+        "hash" : "italic",
+        "id" : "editor-italic"
+    },
+    {
+        "code" : "f203",
+        "hash" : "unordered list",
+        "id" : "editor-ul"
+    },
+    {
+        "code" : "f204",
+        "hash" : "ordered list",
+        "id" : "editor-ol"
+    },
+    {
+        "code" : "f12c",
+        "hash" : "ordered list RTL",
+        "id" : "editor-ol-rtl"
+    },
+    {
+        "code" : "f205",
+        "hash" : "quote",
+        "id" : "editor-quote"
+    },
+    {
+        "code" : "f206",
+        "hash" : "align left",
+        "id" : "editor-alignleft"
+    },
+    {
+        "code" : "f207",
+        "hash" : "align center",
+        "id" : "editor-aligncenter"
+    },
+    {
+        "code" : "f208",
+        "hash" : "align right",
+        "id" : "editor-alignright"
+    },
+    {
+        "code" : "f209",
+        "hash" : "insert more",
+        "id" : "editor-insertmore"
+    },
+    {
+        "code" : "f210",
+        "hash" : "spellcheck",
+        "id" : "editor-spellcheck"
+    },
+    {
+        "code" : "f211",
+        "hash" : "expand",
+        "id" : "editor-expand"
+    },
+    {
+        "code" : "f506",
+        "hash" : "contract",
+        "id" : "editor-contract"
+    },
+    {
+        "code" : "f212",
+        "hash" : "kitchen sink",
+        "id" : "editor-kitchensink"
+    },
+    {
+        "code" : "f213",
+        "hash" : "underline",
+        "id" : "editor-underline"
+    },
+    {
+        "code" : "f214",
+        "hash" : "justify",
+        "id" : "editor-justify"
+    },
+    {
+        "code" : "f215",
+        "hash" : "text color",
+        "id" : "editor-textcolor"
+    },
+    {
+        "code" : "f216",
+        "hash" : "paste word",
+        "id" : "editor-paste-word"
+    },
+    {
+        "code" : "f217",
+        "hash" : "paste text",
+        "id" : "editor-paste-text"
+    },
+    {
+        "code" : "f218",
+        "hash" : "remove formatting",
+        "id" : "editor-removeformatting"
+    },
+    {
+        "code" : "f219",
+        "hash" : "video",
+        "id" : "editor-video"
+    },
+    {
+        "code" : "f220",
+        "hash" : "custom character",
+        "id" : "editor-customchar"
+    },
+    {
+        "code" : "f221",
+        "hash" : "outdent",
+        "id" : "editor-outdent"
+    },
+    {
+        "code" : "f222",
+        "hash" : "indent",
+        "id" : "editor-indent"
+    },
+    {
+        "code" : "f223",
+        "hash" : "help",
+        "id" : "editor-help"
+    },
+    {
+        "code" : "f224",
+        "hash" : "strikethrough",
+        "id" : "editor-strikethrough"
+    },
+    {
+        "code" : "f225",
+        "hash" : "unlink",
+        "id" : "editor-unlink"
+    },
+    {
+        "code" : "f320",
+        "hash" : "RTL",
+        "id" : "editor-rtl"
+    },
+    {
+        "code" : "f10c",
+        "hash" : "LTR",
+        "id" : "editor-ltr"
+    },
+    {
+        "code" : "f474",
+        "hash" : "break",
+        "id" : "editor-break"
+    },
+    {
+        "code" : "f475",
+        "hash" : "code",
+        "id" : "editor-code"
+    },
+    {
+        "code" : "f476",
+        "hash" : "paragraph",
+        "id" : "editor-paragraph"
+    },
+    {
+        "code" : "f535",
+        "hash" : "table",
+        "id" : "editor-table"
+    },
+    {
+        "code" : "f135",
+        "hash" : "align left",
+        "id" : "align-left"
+    },
+    {
+        "code" : "f136",
+        "hash" : "align right",
+        "id" : "align-right"
+    },
+    {
+        "code" : "f134",
+        "hash" : "align center",
+        "id" : "align-center"
+    },
+    {
+        "code" : "f138",
+        "hash" : "align none",
+        "id" : "align-none"
+    },
+    {
+        "code" : "f160",
+        "hash" : "lock",
+        "id" : "lock"
+    },
+    {
+        "code" : "f528",
+        "hash" : "unlock",
+        "id" : "unlock"
+    },
+    {
+        "code" : "f145",
+        "hash" : "calendar",
+        "id" : "calendar"
+    },
+    {
+        "code" : "f508",
+        "hash" : "calendar (alt)",
+        "id" : "calendar-alt"
+    },
+    {
+        "code" : "f177",
+        "hash" : "visibility",
+        "id" : "visibility"
+    },
+    {
+        "code" : "f530",
+        "hash" : "hidden",
+        "id" : "hidden"
+    },
+    {
+        "code" : "f173",
+        "hash" : "post status",
+        "id" : "post-status"
+    },
+    {
+        "code" : "f464",
+        "hash" : "edit",
+        "id" : "edit"
+    },
+    {
+        "code" : "f182",
+        "hash" : "trash",
+        "id" : "trash"
+    },
+    {
+        "code" : "f537",
+        "hash" : "sticky",
+        "id" : "sticky"
+    },
+    {
+        "code" : "f504",
+        "hash" : "external",
+        "id" : "external"
+    },
+    {
+        "code" : "f142",
+        "hash" : "arrow up",
+        "id" : "arrow-up"
+    },
+    {
+        "code" : "f140",
+        "hash" : "arrow down",
+        "id" : "arrow-down"
+    },
+    {
+        "code" : "f139",
+        "hash" : "arrow right",
+        "id" : "arrow-right"
+    },
+    {
+        "code" : "f141",
+        "hash" : "arrow left",
+        "id" : "arrow-left"
+    },
+    {
+        "code" : "f342",
+        "hash" : "arrow up (alt)",
+        "id" : "arrow-up-alt"
+    },
+    {
+        "code" : "f346",
+        "hash" : "arrow down (alt)",
+        "id" : "arrow-down-alt"
+    },
+    {
+        "code" : "f344",
+        "hash" : "arrow right (alt)",
+        "id" : "arrow-right-alt"
+    },
+    {
+        "code" : "f340",
+        "hash" : "arrow left (alt)",
+        "id" : "arrow-left-alt"
+    },
+    {
+        "code" : "f343",
+        "hash" : "arrow up (alt2)",
+        "id" : "arrow-up-alt2"
+    },
+    {
+        "code" : "f347",
+        "hash" : "arrow down (alt2)",
+        "id" : "arrow-down-alt2"
+    },
+    {
+        "code" : "f345",
+        "hash" : "arrow right (alt2)",
+        "id" : "arrow-right-alt2"
+    },
+    {
+        "code" : "f341",
+        "hash" : "arrow left (alt2)",
+        "id" : "arrow-left-alt2"
+    },
+    {
+        "code" : "f156",
+        "hash" : "sort",
+        "id" : "sort"
+    },
+    {
+        "code" : "f229",
+        "hash" : "left right",
+        "id" : "leftright"
+    },
+    {
+        "code" : "f503",
+        "hash" : "randomize",
+        "id" : "randomize"
+    },
+    {
+        "code" : "f163",
+        "hash" : "list view",
+        "id" : "list-view"
+    },
+    {
+        "code" : "f164",
+        "hash" : "excerpt view",
+        "id" : "excerpt-view"
+    },
+    {
+        "code" : "f509",
+        "hash" : "grid view",
+        "id" : "grid-view"
+    },
+    {
+        "code" : "f545",
+        "hash" : "move",
+        "id" : "move"
+    },
+    {
+        "code" : "f237",
+        "hash" : "share",
+        "id" : "share"
+    },
+    {
+        "code" : "f240",
+        "hash" : "share (alt)",
+        "id" : "share-alt"
+    },
+    {
+        "code" : "f242",
+        "hash" : "share (alt2)",
+        "id" : "share-alt2"
+    },
+    {
+        "code" : "f303",
+        "hash" : "RSS",
+        "id" : "rss"
+    },
+    {
+        "code" : "f465",
+        "hash" : "email",
+        "id" : "email"
+    },
+    {
+        "code" : "f466",
+        "hash" : "email (alt)",
+        "id" : "email-alt"
+    },
+    {
+        "code" : "f467",
+        "hash" : "email (alt2)",
+        "id" : "email-alt2"
+    },
+    {
+        "code" : "f325",
+        "hash" : "networking",
+        "id" : "networking"
+    },
+    {
+        "code" : "f162",
+        "hash" : "Amazon",
+        "id" : "amazon"
+    },
+    {
+        "code" : "f304",
+        "hash" : "Facebook",
+        "id" : "facebook"
+    },
+    {
+        "code" : "f305",
+        "hash" : "Facebook (alt)",
+        "id" : "facebook-alt"
+    },
+    {
+        "code" : "f18b",
+        "hash" : "Google",
+        "id" : "google"
+    },
+    {
+        "code" : "f12d",
+        "hash" : "Instagram",
+        "id" : "instagram"
+    },
+    {
+        "code" : "f18d",
+        "hash" : "LinkedIn",
+        "id" : "linkedin"
+    },
+    {
+        "code" : "f192",
+        "hash" : "Pinterest",
+        "id" : "pinterest"
+    },
+    {
+        "code" : "f19c",
+        "hash" : "Podio",
+        "id" : "podio"
+    },
+    {
+        "code" : "f195",
+        "hash" : "Reddit",
+        "id" : "reddit"
+    },
+    {
+        "code" : "f196",
+        "hash" : "Spotify",
+        "id" : "spotify"
+    },
+    {
+        "code" : "f199",
+        "hash" : "Twitch",
+        "id" : "twitch"
+    },
+    {
+        "code" : "f301",
+        "hash" : "Twitter",
+        "id" : "twitter"
+    },
+    {
+        "code" : "f302",
+        "hash" : "Twitter (alt)",
+        "id" : "twitter-alt"
+    },
+    {
+        "code" : "f19a",
+        "hash" : "WhatsApp",
+        "id" : "whatsapp"
+    },
+    {
+        "code" : "f19d",
+        "hash" : "Xing",
+        "id" : "xing"
+    },
+    {
+        "code" : "f19b",
+        "hash" : "YouTube",
+        "id" : "youtube"
+    },
+    {
+        "code" : "f308",
+        "hash" : "hammer",
+        "id" : "hammer"
+    },
+    {
+        "code" : "f309",
+        "hash" : "art",
+        "id" : "art"
+    },
+    {
+        "code" : "f310",
+        "hash" : "migrate",
+        "id" : "migrate"
+    },
+    {
+        "code" : "f311",
+        "hash" : "performance",
+        "id" : "performance"
+    },
+    {
+        "code" : "f483",
+        "hash" : "universal access",
+        "id" : "universal-access"
+    },
+    {
+        "code" : "f507",
+        "hash" : "universal access (alt)",
+        "id" : "universal-access-alt"
+    },
+    {
+        "code" : "f486",
+        "hash" : "tickets",
+        "id" : "tickets"
+    },
+    {
+        "code" : "f484",
+        "hash" : "nametag",
+        "id" : "nametag"
+    },
+    {
+        "code" : "f481",
+        "hash" : "clipboard",
+        "id" : "clipboard"
+    },
+    {
+        "code" : "f487",
+        "hash" : "heart",
+        "id" : "heart"
+    },
+    {
+        "code" : "f488",
+        "hash" : "megaphone",
+        "id" : "megaphone"
+    },
+    {
+        "code" : "f489",
+        "hash" : "schedule",
+        "id" : "schedule"
+    },
+    {
+        "code" : "f10d",
+        "hash" : "Tide",
+        "id" : "tide"
+    },
+    {
+        "code" : "f124",
+        "hash" : "REST API",
+        "id" : "rest-api"
+    },
+    {
+        "code" : "f13a",
+        "hash" : "code standards",
+        "id" : "code-standards"
+    },
+    {
+        "code" : "f452",
+        "hash" : "activity",
+        "id" : "buddicons-activity"
+    },
+    {
+        "code" : "f477",
+        "hash" : "bbPress",
+        "id" : "buddicons-bbpress-logo"
+    },
+    {
+        "code" : "f448",
+        "hash" : "BuddyPress",
+        "id" : "buddicons-buddypress-logo"
+    },
+    {
+        "code" : "f453",
+        "hash" : "community",
+        "id" : "buddicons-community"
+    },
+    {
+        "code" : "f449",
+        "hash" : "forums",
+        "id" : "buddicons-forums"
+    },
+    {
+        "code" : "f454",
+        "hash" : "friends",
+        "id" : "buddicons-friends"
+    },
+    {
+        "code" : "f456",
+        "hash" : "groups",
+        "id" : "buddicons-groups"
+    },
+    {
+        "code" : "f457",
+        "hash" : "pm",
+        "id" : "buddicons-pm"
+    },
+    {
+        "code" : "f451",
+        "hash" : "replies",
+        "id" : "buddicons-replies"
+    },
+    {
+        "code" : "f450",
+        "hash" : "topics",
+        "id" : "buddicons-topics"
+    },
+    {
+        "code" : "f455",
+        "hash" : "tracking",
+        "id" : "buddicons-tracking"
+    },
+    {
+        "code" : "f120",
+        "hash" : "WordPress",
+        "id" : "wordpress"
+    },
+    {
+        "code" : "f324",
+        "hash" : "WordPress (alt)",
+        "id" : "wordpress-alt"
+    },
+    {
+        "code" : "f157",
+        "hash" : "Pressthis",
+        "id" : "pressthis"
+    },
+    {
+        "code" : "f463",
+        "hash" : "update",
+        "id" : "update"
+    },
+    {
+        "code" : "f113",
+        "hash" : "update (alt)",
+        "id" : "update-alt"
+    },
+    {
+        "code" : "f180",
+        "hash" : "screen options",
+        "id" : "screenoptions"
+    },
+    {
+        "code" : "f348",
+        "hash" : "info",
+        "id" : "info"
+    },
+    {
+        "code" : "f174",
+        "hash" : "cart",
+        "id" : "cart"
+    },
+    {
+        "code" : "f175",
+        "hash" : "feedback",
+        "id" : "feedback"
+    },
+    {
+        "code" : "f176",
+        "hash" : "cloud",
+        "id" : "cloud"
+    },
+    {
+        "code" : "f326",
+        "hash" : "translation",
+        "id" : "translation"
+    },
+    {
+        "code" : "f323",
+        "hash" : "tag",
+        "id" : "tag"
+    },
+    {
+        "code" : "f318",
+        "hash" : "category",
+        "id" : "category"
+    },
+    {
+        "code" : "f480",
+        "hash" : "archive",
+        "id" : "archive"
+    },
+    {
+        "code" : "f479",
+        "hash" : "tagcloud",
+        "id" : "tagcloud"
+    },
+    {
+        "code" : "f478",
+        "hash" : "text",
+        "id" : "text"
+    },
+    {
+        "code" : "f16d",
+        "hash" : "bell",
+        "id" : "bell"
+    },
+    {
+        "code" : "f147",
+        "hash" : "yes",
+        "id" : "yes"
+    },
+    {
+        "code" : "f12a",
+        "hash" : "yes (alt)",
+        "id" : "yes-alt"
+    },
+    {
+        "code" : "f158",
+        "hash" : "no",
+        "id" : "no"
+    },
+    {
+        "code" : "f335",
+        "hash" : "no (alt)",
+        "id" : "no-alt"
+    },
+    {
+        "code" : "f132",
+        "hash" : "plus",
+        "id" : "plus"
+    },
+    {
+        "code" : "f502",
+        "hash" : "plus (alt)",
+        "id" : "plus-alt"
+    },
+    {
+        "code" : "f543",
+        "hash" : "plus (alt2)",
+        "id" : "plus-alt2"
+    },
+    {
+        "code" : "f460",
+        "hash" : "minus",
+        "id" : "minus"
+    },
+    {
+        "code" : "f153",
+        "hash" : "dismiss",
+        "id" : "dismiss"
+    },
+    {
+        "code" : "f159",
+        "hash" : "marker",
+        "id" : "marker"
+    },
+    {
+        "code" : "f155",
+        "hash" : "star filled",
+        "id" : "star-filled"
+    },
+    {
+        "code" : "f459",
+        "hash" : "star half",
+        "id" : "star-half"
+    },
+    {
+        "code" : "f154",
+        "hash" : "star empty",
+        "id" : "star-empty"
+    },
+    {
+        "code" : "f227",
+        "hash" : "flag",
+        "id" : "flag"
+    },
+    {
+        "code" : "f534",
+        "hash" : "warning",
+        "id" : "warning"
+    },
+    {
+        "code" : "f230",
+        "hash" : "location",
+        "id" : "location"
+    },
+    {
+        "code" : "f231",
+        "hash" : "location (alt)",
+        "id" : "location-alt"
+    },
+    {
+        "code" : "f178",
+        "hash" : "vault",
+        "id" : "vault"
+    },
+    {
+        "code" : "f332",
+        "hash" : "shield",
+        "id" : "shield"
+    },
+    {
+        "code" : "f334",
+        "hash" : "shield (alt)",
+        "id" : "shield-alt"
+    },
+    {
+        "code" : "f468",
+        "hash" : "sos",
+        "id" : "sos"
+    },
+    {
+        "code" : "f179",
+        "hash" : "search",
+        "id" : "search"
+    },
+    {
+        "code" : "f181",
+        "hash" : "slides",
+        "id" : "slides"
+    },
+    {
+        "code" : "f121",
+        "hash" : "text page",
+        "id" : "text-page"
+    },
+    {
+        "code" : "f183",
+        "hash" : "analytics",
+        "id" : "analytics"
+    },
+    {
+        "code" : "f184",
+        "hash" : "chart pie",
+        "id" : "chart-pie"
+    },
+    {
+        "code" : "f185",
+        "hash" : "chart bar",
+        "id" : "chart-bar"
+    },
+    {
+        "code" : "f238",
+        "hash" : "chart line",
+        "id" : "chart-line"
+    },
+    {
+        "code" : "f239",
+        "hash" : "chart area",
+        "id" : "chart-area"
+    },
+    {
+        "code" : "f307",
+        "hash" : "groups",
+        "id" : "groups"
+    },
+    {
+        "code" : "f338",
+        "hash" : "businessman",
+        "id" : "businessman"
+    },
+    {
+        "code" : "f12f",
+        "hash" : "businesswoman",
+        "id" : "businesswoman"
+    },
+    {
+        "code" : "f12e",
+        "hash" : "businessperson",
+        "id" : "businessperson"
+    },
+    {
+        "code" : "f336",
+        "hash" : "id",
+        "id" : "id"
+    },
+    {
+        "code" : "f337",
+        "hash" : "id (alt)",
+        "id" : "id-alt"
+    },
+    {
+        "code" : "f312",
+        "hash" : "products",
+        "id" : "products"
+    },
+    {
+        "code" : "f313",
+        "hash" : "awards",
+        "id" : "awards"
+    },
+    {
+        "code" : "f314",
+        "hash" : "forms",
+        "id" : "forms"
+    },
+    {
+        "code" : "f473",
+        "hash" : "testimonial",
+        "id" : "testimonial"
+    },
+    {
+        "code" : "f322",
+        "hash" : "portfolio",
+        "id" : "portfolio"
+    },
+    {
+        "code" : "f330",
+        "hash" : "book",
+        "id" : "book"
+    },
+    {
+        "code" : "f331",
+        "hash" : "book (alt)",
+        "id" : "book-alt"
+    },
+    {
+        "code" : "f316",
+        "hash" : "download",
+        "id" : "download"
+    },
+    {
+        "code" : "f317",
+        "hash" : "upload",
+        "id" : "upload"
+    },
+    {
+        "code" : "f321",
+        "hash" : "backup",
+        "id" : "backup"
+    },
+    {
+        "code" : "f469",
+        "hash" : "clock",
+        "id" : "clock"
+    },
+    {
+        "code" : "f339",
+        "hash" : "lightbulb",
+        "id" : "lightbulb"
+    },
+    {
+        "code" : "f482",
+        "hash" : "microphone",
+        "id" : "microphone"
+    },
+    {
+        "code" : "f472",
+        "hash" : "desktop",
+        "id" : "desktop"
+    },
+    {
+        "code" : "f547",
+        "hash" : "laptop",
+        "id" : "laptop"
+    },
+    {
+        "code" : "f471",
+        "hash" : "tablet",
+        "id" : "tablet"
+    },
+    {
+        "code" : "f470",
+        "hash" : "smartphone",
+        "id" : "smartphone"
+    },
+    {
+        "code" : "f525",
+        "hash" : "phone",
+        "id" : "phone"
+    },
+    {
+        "code" : "f510",
+        "hash" : "index card",
+        "id" : "index-card"
+    },
+    {
+        "code" : "f511",
+        "hash" : "carrot",
+        "id" : "carrot"
+    },
+    {
+        "code" : "f512",
+        "hash" : "building",
+        "id" : "building"
+    },
+    {
+        "code" : "f513",
+        "hash" : "store",
+        "id" : "store"
+    },
+    {
+        "code" : "f514",
+        "hash" : "album",
+        "id" : "album"
+    },
+    {
+        "code" : "f527",
+        "hash" : "palm tree",
+        "id" : "palmtree"
+    },
+    {
+        "code" : "f524",
+        "hash" : "tickets (alt)",
+        "id" : "tickets-alt"
+    },
+    {
+        "code" : "f526",
+        "hash" : "money",
+        "id" : "money"
+    },
+    {
+        "code" : "f18e",
+        "hash" : "money (alt)",
+        "id" : "money-alt"
+    },
+    {
+        "code" : "f328",
+        "hash" : "smiley",
+        "id" : "smiley"
+    },
+    {
+        "code" : "f529",
+        "hash" : "thumbs up",
+        "id" : "thumbs-up"
+    },
+    {
+        "code" : "f542",
+        "hash" : "thumbs down",
+        "id" : "thumbs-down"
+    },
+    {
+        "code" : "f538",
+        "hash" : "layout",
+        "id" : "layout"
+    },
+    {
+        "code" : "f546",
+        "hash" : "paperclip",
+        "id" : "paperclip"
+    },
+    {
+        "code" : "f131",
+        "hash" : "color picker",
+        "id" : "color-picker"
+    },
+    {
+        "code" : "f327",
+        "hash" : "edit large",
+        "id" : "edit-large"
+    },
+    {
+        "code" : "f186",
+        "hash" : "edit page",
+        "id" : "edit-page"
+    },
+    {
+        "code" : "f15f",
+        "hash" : "airplane",
+        "id" : "airplane"
+    },
+    {
+        "code" : "f16a",
+        "hash" : "bank",
+        "id" : "bank"
+    },
+    {
+        "code" : "f16c",
+        "hash" : "beer",
+        "id" : "beer"
+    },
+    {
+        "code" : "f16e",
+        "hash" : "calculator",
+        "id" : "calculator"
+    },
+    {
+        "code" : "f16b",
+        "hash" : "car",
+        "id" : "car"
+    },
+    {
+        "code" : "f16f",
+        "hash" : "coffee",
+        "id" : "coffee"
+    },
+    {
+        "code" : "f17f",
+        "hash" : "drumstick",
+        "id" : "drumstick"
+    },
+    {
+        "code" : "f187",
+        "hash" : "food",
+        "id" : "food"
+    },
+    {
+        "code" : "f188",
+        "hash" : "fullscreen (alt)",
+        "id" : "fullscreen-alt"
+    },
+    {
+        "code" : "f189",
+        "hash" : "fullscreen exit (alt)",
+        "id" : "fullscreen-exit-alt"
+    },
+    {
+        "code" : "f18a",
+        "hash" : "games",
+        "id" : "games"
+    },
+    {
+        "code" : "f18c",
+        "hash" : "hourglass",
+        "id" : "hourglass"
+    },
+    {
+        "code" : "f18f",
+        "hash" : "open folder",
+        "id" : "open-folder"
+    },
+    {
+        "code" : "f190",
+        "hash" : "PDF",
+        "id" : "pdf"
+    },
+    {
+        "code" : "f191",
+        "hash" : "pets",
+        "id" : "pets"
+    },
+    {
+        "code" : "f193",
+        "hash" : "printer",
+        "id" : "printer"
+    },
+    {
+        "code" : "f194",
+        "hash" : "privacy",
+        "id" : "privacy"
+    },
+    {
+        "code" : "f198",
+        "hash" : "superhero",
+        "id" : "superhero"
+    },
+    {
+        "code" : "f197",
+        "hash" : "superhero (alt)",
+        "id" : "superhero-alt"
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-json": "*",
+        "joetannenbaum/alfred-workflow": "^1.1"
+    }
+}

@@ -8,9 +8,7 @@ Search WordPress Dashicons and copy/paste characters as HTML entities, get the H
 
 Download the latest version of the workflow from the [releases page][releases], then double-click the `Alfred Dashicons-X.X.X.alfredworkflow` file to install.
 
-
 ## Usage
-
 
 - `.dashicon <query>` — Search for Dashicon characters.
 
